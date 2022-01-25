@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bledixhindi
-- 👀 I’m interested in programminh
-- 🌱 I’m currently learning computer engineer
+- 👀 I’m interested in programming
+- 🌱 I’m currently study for computer engineer
 - 💞️ I’m looking to collaborate on software and websits
 - 📫 How to reach me bledixhindi@protonmail.com
 
